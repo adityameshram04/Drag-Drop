@@ -1,0 +1,23 @@
+#first_name {
+    background-color: grey;
+    /* position: absolute; */
+}
+
+#last_name {
+    background-color: grey;
+    /* position: absolute; */
+}
+
+button {
+    margin: 50px;
+    padding: 10px;
+}
+
+#zoomb {
+    position: fixed;
+    margin-left: 1250px;
+}
+
+input {
+    background-color: grey;
+}
